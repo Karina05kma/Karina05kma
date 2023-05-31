@@ -1,4 +1,4 @@
-<img src="../assets/karina.png.png" width=100%/>
+<img src="https://github.com/Karina05kma/Karina05kma/blob/4990adf60b78d8135c32ce00102396114254b100/assets/karina.png.png" width=100%/>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="100"/>
   </div>
