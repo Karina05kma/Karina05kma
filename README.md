@@ -9,7 +9,7 @@
  🌱 I’m currently finising to learn mobile application testing and planning to learn Python-based automation testing./ В данный момент я завершаю изучение тестирования мобильных приложений и планирую изучать автоматизацию тестирования на ЯП Python. 
 
  Languages and tools
- [Atlassian.Jira](https://img.shields.io/badge/-Jira-blue?style=for-the-badge&logo=jira&logoColor=#2684ff)
+ [Jira](https://img.shields.io/badge/-Jira-blue?style=for-the-badge&logo=jira&logoColor=#2684ff)
  [Postman](https://img.shields.io/badge/-Postman-#d23f0e?style=for-the-badge&logo=Postman&logoColor=#d23f0e)
  [git](https://img.shields.io/badge/-Git-#4e443c?style=for-the-badge&logo=git&logoColor=#f14e32)
 [sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=006488)
