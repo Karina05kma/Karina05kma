@@ -2,16 +2,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="100"/>
   </div>
- I'm Junior QA Engineer./
- Я начинающий QA Engineer/ Тестировщик.
+<div> I'm Junior QA Engineer./</div>
+<div>Я начинающий QA Engineer/ Тестировщик.</div>
  
- 🔭 I’m currently looking for job./ 
- В настоящий момент я активно ищу работу.
+ <div>🔭 I’m currently looking for job./ </div>
+<div> В настоящий момент я активно ищу работу.</div>
 
- 🌱 I’m currently finising to learn mobile application testing and planning to learn Python-based automation testing./ 
- В данный момент я завершаю изучение тестирования мобильных приложений и планирую изучать автоматизацию тестирования на ЯП Python. 
+ <div>🌱 I’m currently finising to learn mobile application testing and planning to learn Python-based automation testing./ </div>
+<div> В данный момент я завершаю изучение тестирования мобильных приложений и планирую изучать автоматизацию тестирования на ЯП Python. </div>
 
- Languages and tools
+<div> Languages and tools</div>
  [Jira](https://img.shields.io/badge/-Jira-blue?style=for-the-badge&logo=jira&logoColor=#2684ff)
  [Postman](https://img.shields.io/badge/-Postman-#d23f0e?style=for-the-badge&logo=Postman&logoColor=#d23f0e)
  [git](https://img.shields.io/badge/-Git-#4e443c?style=for-the-badge&logo=git&logoColor=#f14e32)
