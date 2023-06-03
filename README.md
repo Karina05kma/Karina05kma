@@ -20,8 +20,8 @@
 [figma](https://img.shields.io/badge/-Figma-#5551FF?style=for-the-badge&logo=Figma&logoColor=#dc51ff)
 [HTML5](https://img.shields.io/badge/-HTML5-#0e1014?style=for-the-badge&logo=HTML5&logoColor=#bb350d)
 [CSS](https://img.shields.io/badge/-CSS3-#171717?style=for-the-badge&logo=CSS3&logoColor#4247f4)
-[Android SDK](https://img.shields.io/badge/-Android Studio-#424242?style=for-the-badge&logo=Android StudiologoColor=#269b22)
-[Charles](https://img.shields.io/badge/-Charles Proxy-#208fb1?style=for-the-badge&logo=CharlesProxy&logoColor=#2aa0b3)
+[Android SDK](https://img.shields.io/badge/-AndroidStudio-#424242?style=for-the-badge&logo=Android StudiologoColor=#269b22)
+[Charles](https://img.shields.io/badge/-CharlesProxy-#208fb1?style=for-the-badge&logo=CharlesProxy&logoColor=#2aa0b3)
 📫 How to reach me: ...
 
 
