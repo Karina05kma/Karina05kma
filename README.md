@@ -24,6 +24,7 @@
 ![Header](https://img.shields.io/badge/-AndroidStudio-424242?style=for-the-badge&logo=AndroidStudio&logoColor=269b22)
 ![Header](https://img.shields.io/badge/-CharlesProxy-208fb1?style=for-the-badge&logo=charlesproxy&logoColor=2aa0b3)
 ## Testing Documentation
+[Link to my portfolio/ Ссылка на портфолио](https://goo.su/QySSW)
 ## 📫 How to reach me: / Мои контакты
 
 
