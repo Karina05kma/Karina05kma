@@ -5,8 +5,8 @@
  <div> I'm Junior QA Engineer.</div>
 <div> Я начинающий QA Engineer/ Тестировщик.</div>
  
- ## 🔭 I’m currently looking for job.
-## В настоящий момент я активно ищу работу.
+ ## 🔭 I’m currently a trainee at ASTON.
+## В настоящий момент я стажер в АСТОН.
 
  ## 🌱 I’m currently finising to learn mobile application testing and planning to learn Python-based automation testing./ 
 ## В данный момент я завершаю изучение тестирования мобильных приложений и планирую изучать автоматизацию тестирования на ЯП Python. 
@@ -26,5 +26,7 @@
 ## Testing Documentation
 [Link to my portfolio/ Ссылка на портфолио](https://goo.su/QySSW)
 ## 📫 How to reach me: / Мои контакты
+![Header](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=2684ff)
+
 
 
