@@ -27,6 +27,7 @@
 [Link to my portfolio/ Ссылка на портфолио](https://goo.su/QySSW)
 ## 📫 How to reach me: / Мои контакты
 ![Header](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=2684ff)
+@Karina_M25
 
 
 
