@@ -2,10 +2,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="100"/>
   </div>
- <div> I'm Junior QA Engineer.</div>
-<div> Я начинающий QA Engineer/ Тестировщик.</div>
+
  
- ## 🔭 I’m currently working at ASTON.
+ ## 🔭I'm Junior QA Engineer.
+ ## Я начинающий QA Engineer/ Тестировщик.
+ ## I’m working at ASTON now.
 ## В настоящий момент я работаю в АСТОН.
 
  ## 🌱 I’m currently finising to learn mobile application testing and planning to learn Python-based automation testing./ 
