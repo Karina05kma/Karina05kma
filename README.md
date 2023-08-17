@@ -5,8 +5,8 @@
  <div> I'm Junior QA Engineer.</div>
 <div> Я начинающий QA Engineer/ Тестировщик.</div>
  
- ## 🔭 I’m currently a trainee at ASTON.
-## В настоящий момент я стажер в АСТОН.
+ ## 🔭 I’m currently working at ASTON.
+## В настоящий момент я работаю в АСТОН.
 
  ## 🌱 I’m currently finising to learn mobile application testing and planning to learn Python-based automation testing./ 
 ## В данный момент я завершаю изучение тестирования мобильных приложений и планирую изучать автоматизацию тестирования на ЯП Python. 
@@ -15,8 +15,10 @@
 ## Languages and tools
 ![Header](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=2684ff)
 ![Header](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
+![Header](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=swagger&logoColor=269b22)
 ![Header](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=f14e32)
 ![Header](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=006488)
+![Header](https://img.shields.io/badge/-PostgreSql-090909?style=for-the-badge&logo=Postgresql&logoColor=2684ff)
 ![Header](https://img.shields.io/badge/-ChromeDevTools-090909?style=for-the-badge&logo=chromedevtools&logoColor=cf2e2e)
 ![Header](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=dc51ff)
 ![Header](https://img.shields.io/badge/-HTML5-0e1014?style=for-the-badge&logo=html5&logoColor=bb350d)
@@ -26,8 +28,8 @@
 ## Testing Documentation
 [Link to my portfolio/ Ссылка на портфолио](https://goo.su/QySSW)
 ## 📫 How to reach me: / Мои контакты
-![Header](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=2684ff)
-@Karina_M25
+![Header @Karina_M25](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=2684ff)
+
 
 
 
