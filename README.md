@@ -15,6 +15,9 @@
 [Link to my CV](https://docs.google.com/document/d/1nq5hn8iY8HdxbZyOVSMsE732EacmEWpD/edit?usp=sharing&ouid=101198680481109269647&rtpof=true&sd=true)
 ## Languages and tools
 ![Header](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=2684ff)
+![Header](https://img.shields.io/badge/-Confluence-090909?style=for-the-badge&logo=confluence&logoColor=2684ff)
+![Header](https://img.shields.io/badge/-Zephyr-090909?style=for-the-badge&logo=zephyr&logoColor=2684ff)
+![Header](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=testrail&logoColor=269b22)
 ![Header](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=swagger&logoColor=269b22)
 ![Header](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=f14e32)
