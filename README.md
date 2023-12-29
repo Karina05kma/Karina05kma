@@ -19,6 +19,7 @@
 ![Header](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=testrail&logoColor=269b22)
 ![Header](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=swagger&logoColor=269b22)
+![Header](https://img.shields.io/badge/-Red_Hat_OpenShift-090909?style=for-the-badge&logo=red_hat_opebshift&logoColor=bb350d)
 ![Header](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=f14e32)
 ![Header](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=006488)
 ![Header](https://img.shields.io/badge/-PostgreSql-090909?style=for-the-badge&logo=Postgresql&logoColor=2684ff)
@@ -30,5 +31,5 @@
 ![Header](https://img.shields.io/badge/-CharlesProxy-208fb1?style=for-the-badge&logo=charlesproxy&logoColor=2aa0b3)
 
 ## 📫 How to reach me: / Мои контакты
-![Header @Karina_M25](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=2684ff)
+![Header https://t.me/Karina_M25 ](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=2684ff)
 
