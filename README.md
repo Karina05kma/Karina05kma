@@ -9,9 +9,6 @@
  ## I’m working at ASTON now.
 ## В настоящий момент я работаю в АСТОН.
 
- ## 🌱 I’m currently finising to learn mobile application testing and planning to learn Python-based automation testing./ 
-## В данный момент я завершаю изучение тестирования мобильных приложений и планирую изучать автоматизацию тестирования на ЯП Python. 
-
 ## Languages and tools
 ![Header](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=2684ff)
 ![Header](https://img.shields.io/badge/-Confluence-090909?style=for-the-badge&logo=confluence&logoColor=2684ff)
