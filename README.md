@@ -6,8 +6,6 @@
  
  ## 🔭I'm QA Engineer.
  ## Я QA Engineer/ Тестировщик.
- ## I’m working at ASTON now.
-## В настоящий момент я работаю в АСТОН.
 
 ## Languages and tools
 ![Header](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=2684ff)
@@ -28,5 +26,5 @@
 ![Header](https://img.shields.io/badge/-CharlesProxy-208fb1?style=for-the-badge&logo=charlesproxy&logoColor=2aa0b3)
 
 ## 📫 How to reach me: / Мои контакты
-![Header https://t.me/Karina_M25 ](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=2684ff)
+![Header https://t.me/Karina_M25](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=2684ff)
 
